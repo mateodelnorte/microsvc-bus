@@ -1,0 +1,17 @@
+{
+  "name": "microsvc-bus",
+  "version": "0.0.0",
+  "description": "microsvc integration for servicebus",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mattwalters5@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "gitignoreensure": "0.0.0",
+    "microsvc": "0.0.0",
+    "servicebus": "^1.0.0-rc2"
+  },
+  "repository": "git@github.com:mateodelnorte/microsvc-bus.git"
+}
